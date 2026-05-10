@@ -5,7 +5,7 @@
 total_rent = 2250
 utilities = 285
 pet_fee = 35
-master_fee = 0
+master_fee = 100
 
 def get_bool(prompt):
     while True:    
